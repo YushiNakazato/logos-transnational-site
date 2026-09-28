@@ -32,3 +32,6 @@ body{line-break:strict}
 :is(p,li,td,th){text-wrap:pretty}
 
 .article-body .message-signature-en{display:block;margin-top:.4em;font-size:.875em;font-weight:400;letter-spacing:normal;line-height:1.6;color:var(--mint-text)}
+
+.breadcrumbs a{display:inline-flex;align-items:center;min-height:24px}
+.message-heading-rule{color:var(--mint-text)}.message-heading-freedom{color:var(--mint-accent)}
